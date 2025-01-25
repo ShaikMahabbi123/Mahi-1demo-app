@@ -1,1 +1,23 @@
-this is first file added
+git config : To configure name & email
+
+git init : To initialize working tree
+
+git add : To add files to staging area (git add --a)
+
+git status : To check working tree status
+
+git commit : To commit files from staging to local repo (git commit -m 'comment')
+
+git remote add : To add remote repo to working tree
+
+git push : To send files from local repo to remote repo
+
+git restore : To unstage the files & to discard changes made in files
+
+git log : To see commit history
+
+git rm : To remove files from local & remote
+
+git clone : To clone remote repo to local machine
+
+git pull : To take latest changes from remote repo to local repo
