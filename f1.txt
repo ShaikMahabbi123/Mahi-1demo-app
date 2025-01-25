@@ -12,7 +12,7 @@ git remote add : To add remote repo to working tree
 
 git push : To send files from local repo to remote repo
 
-git restore : To unstage the files & to discard changes made in files
+git restore : To unstage the files & to discard changes made in files (git restore --staged filename)
 
 git log : To see commit history
 
